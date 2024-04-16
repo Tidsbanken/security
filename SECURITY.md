@@ -8,6 +8,11 @@ At Tidsbanken AS, we take the security of our systems and data seriously. We wel
 
 This Responsible Disclosure Policy applies to all systems, applications, websites, and services owned or operated by Tidsbanken AS.
 
+## Language
+
+We prefer that all reports and communications regarding security vulnerabilities be submitted in English or Norwegian to facilitate clear and effective communication between security researchers and our security team.
+
+
 ## Reporting Vulnerabilities
 
 If you discover a potential security vulnerability, please follow these steps to report it to us:
@@ -19,6 +24,18 @@ If you discover a potential security vulnerability, please follow these steps to
 3. **Provide Contact Information**: Include your contact information in the report, including a way to contact you, and any other relevant contact details. This will allow us to communicate with you regarding the vulnerability and its resolution.
 
 4. **Responsible Disclosure**: We request that you refrain from publicly disclosing the vulnerability until we have had an opportunity to investigate and address it. We strive to resolve security issues promptly and will keep you informed of our progress throughout the process.
+
+## Guidelines
+
+When reporting a security vulnerability, please adhere to the following guidelines:
+
+- **Do Not Violate Privacy**: Do not access, modify, or delete data that does not belong to you. Only interact with systems or applications in ways that are necessary to identify and demonstrate the vulnerability.
+
+- **Do Not Disrupt Services**: Do not engage in activities that may disrupt or degrade the performance of our systems or applications. Do not attempt to execute denial-of-service attacks, spam, or other malicious activities.
+
+- **Do Not Share Information**: Do not share information about the vulnerability with others until it has been resolved. Keep the details of the vulnerability confidential until we have had an opportunity to investigate and address it.
+
+- **Do Not Exploit the Vulnerability**: Do not exploit the vulnerability for any purpose other than to demonstrate the security issue to us. Do not use the vulnerability to gain unauthorized access to systems or data.
 
 ## Legal Protections
 
