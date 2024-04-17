@@ -15,15 +15,22 @@ We prefer that all reports and communications regarding security vulnerabilities
 
 ## Reporting Vulnerabilities
 
+**Responsible Disclosure**: We request that you refrain from publicly disclosing the vulnerability until we have had an opportunity to investigate and address it. We strive to resolve security issues promptly and will keep you informed of our progress throughout the process.
+
 If you discover a potential security vulnerability, please follow these steps to report it to us:
+
+### By GitHub
+1. **Gather Information**: Collect as much information as possible about the vulnerability, including a description of the issue, the affected system or application, and any steps to reproduce the vulnerability.
+2. **Submit a Report**: Submit a detailed report of the vulnerability to our security team via GitHub by clicking the "Report a vulnerability" button on the repository's Security tab or by clicking [here](https://github.com/Tidsbanken/security/security/advisories/new).
+3. **Follow the Instructions**: Follow the instructions provided by GitHub to submit your report. Please include a detailed description of the vulnerability, the affected system or application, and any steps to reproduce the vulnerability.
+
+### By Email
 
 1. **Gather Information**: Collect as much information as possible about the vulnerability, including a description of the issue, the affected system or application, and any steps to reproduce the vulnerability.
 
 2. **Contact Us**: Submit a detailed report of the vulnerability to our security team via email at [teknisk@tidsbanken.no](mailto:teknisk@tidsbanken.no). Please include "Security Vulnerability Disclosure" in the subject line. You may choose to remain anonymous, but please provide a valid contact email address so we can communicate with you regarding the vulnerability and its resolution.
 
 3. **Provide Contact Information**: Include your contact information in the report, including a way to contact you, and any other relevant contact details. This will allow us to communicate with you regarding the vulnerability and its resolution.
-
-4. **Responsible Disclosure**: We request that you refrain from publicly disclosing the vulnerability until we have had an opportunity to investigate and address it. We strive to resolve security issues promptly and will keep you informed of our progress throughout the process.
 
 ## Guidelines
 
